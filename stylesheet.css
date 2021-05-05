@@ -2,7 +2,7 @@ span {
  color:red;
 }
 .header {
- background-color: blue;
+ background-color:black;
  color:white;
  height: 90px;
 }
@@ -29,7 +29,7 @@ li {
 }
 
 .fotter {
- background-color: blue;
+ background-color: grey;
  color:white;
  height:120px;
 }
